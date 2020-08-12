@@ -1,0 +1,72 @@
+Quiz Michigan week 1
+1.
+Question 1
+Python is an example of an
+1 point
+ 
+Interpreted language
+
+2.
+Question 2
+Data Science is a
+ 
+Interdisciplinary, made up of all of the above
+3.
+Question 3
+Data visualization is not a part of data science.
+ 
+False
+4.
+Question 4
+Which bracketing style does Python use for tuples?
+ 
+( )
+5.
+Question 5
+In Python, strings are considered Mutable, and can be changed.
+1 point
+ 
+False
+6.
+Question 6
+What is the result of the following code: ['a', 'b', 'c'] + [1, 2, 3]
+1 point
+ 
+['a', 'b', 'c', 1, 2, 3]
+
+7.
+Question 7
+String slicing is
+ 
+A way to make a substring of a string in python
+
+8.
+Question 8
+When you create a lambda, what type is returned? E.g. type(lambda x: x+1) returns
+1 point
+ 
+<class 'function'>
+
+9.
+Question 9
+The epoch refers to  January 1, year 1970
+
+10.
+Question 10
+This code, [x**2 for x in range(10)] , is an example of a
+ 
+List comprehension (try this)
+
+11.
+Question 11
+Given a 6x6 NumPy array r, which of the following options would slice the shaded elements?
+ 
+r.reshape(36)[::7]
+12.
+Question 12
+Given a 6x6 NumPy array r, which of the following options would slice the shaded elements?
+ 
+1
+2
+r[2:4,2:4]
+
